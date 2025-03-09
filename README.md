@@ -7,7 +7,7 @@
 
 ### 2 Navigate to it :
   ```
-    cd tGali-Ibex
+    cd Gali-Ibex
   ```
    
 ### 3 execute  :
