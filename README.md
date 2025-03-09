@@ -1,3 +1,5 @@
+The intention of this proyect is try to add more functionality and features with the time,but the first version is for show my performance with next.js
+
 ## 📖 How to Run the Project
 
 ### 1 Clone the Repository in a folder that you want
