@@ -1,4 +1,4 @@
-Proyect with next.js about ibex
+Proyect with next.js about stock data and values
 
 1.clone repository
 
